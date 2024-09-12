@@ -1,0 +1,10 @@
+hop
+ifwall 3
+right
+ifenemy 6
+go 1
+infect
+go 1
+
+
+This Shibainu happily infects all (or not)!

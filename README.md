@@ -1,1 +1,2 @@
-5 projects for VE280 FA22
+# 5 projects for the course VE280 (Programming & Elementary Data Structures)
+For reference only.

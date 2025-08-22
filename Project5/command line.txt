@@ -1,1 +1,0 @@
-valgrind --leak-check=full /Users/kevin/CLionProjects/280proj5/cmake-build-debug/280Proj5 < sample
